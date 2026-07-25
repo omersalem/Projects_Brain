@@ -70,3 +70,11 @@ If `Projects/<Project_Name>/README.md` already exists:
 * **Short & Structured**: Use clean Markdown tables, bullet points, and concise key-value pairs.
 * **Agent- & Human-Readable**: Format clearly so both LLMs and human engineers can scan and digest project context instantly.
 * **Zero Redundancy**: Omit filler text, excessive prose, and duplicated data points across sections.
+
+---
+
+## System Navigation
+
+* **Overview**: [[README]]
+* **Global Core**: [[AGENTS]] | [[RULES]]
+* **Continuous Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]

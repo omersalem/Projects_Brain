@@ -47,3 +47,12 @@ The structure of Projects Brain is deliberately constrained to the following roo
 * **Source Code**: GitHub repositories remain the single source of truth for all application source code, configuration files, and implementation details.
 * **Project Knowledge**: Projects Brain is the single source of truth for project context, architectural decisions, domain concepts, and project-level knowledge.
 * **Zero Code Duplication**: Source code is **never copied** into Projects Brain. Instead, high-level knowledge, architectural summaries, component interfaces, and decision rationales are extracted from repositories and systematically organized within the Brain.
+
+---
+
+## Central Knowledge Graph
+
+* **Operational Directives**: [[AGENTS]]
+* **Global Guardrails**: [[RULES]]
+* **Reusable Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]
+* **Global Sync Skill**: [[Skills/github-project-sync/SKILL]]

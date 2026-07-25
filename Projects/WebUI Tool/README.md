@@ -41,3 +41,10 @@ Unknown
 # Notes
 
 Synchronized via github-project-sync skill on 2026-07-25 10:18:52.
+
+---
+
+## Knowledge Graph & System Links
+
+* **Global Knowledge**: [[AGENTS]] | [[RULES]] | [[Engineering Principles]] | [[Lessons Learned]]
+* **Project Skills**: [[Skills/feature/SKILL]] | [[Skills/fix/SKILL]] | [[Skills/review/SKILL]] | [[Skills/new/SKILL]]

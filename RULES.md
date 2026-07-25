@@ -61,3 +61,12 @@ Global engineering rules and guardrails for all AI agents operating within Proje
 ---
 
 > When uncertain, choose the safest and simplest solution.
+
+---
+
+## Central Knowledge Graph Links
+
+* **Overview**: [[README]]
+* **Agent Directives**: [[AGENTS]]
+* **Shared Principles**: [[Engineering Principles]]
+* **Lessons Learned**: [[Lessons Learned]]

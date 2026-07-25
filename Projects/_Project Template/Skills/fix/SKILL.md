@@ -43,3 +43,11 @@ Safely fix bugs in the codebase, preserve existing functionality, and capture re
 * Verified bug fix in the codebase.
 * Passing tests and build check.
 * Updated `Shared/Lessons Learned.md` entry if a generalizable lesson was discovered.
+
+---
+
+## System Navigation
+
+* **Project Hub**: [[README]]
+* **Global Core**: [[AGENTS]] | [[RULES]]
+* **Continuous Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]

@@ -37,3 +37,12 @@ This file records important engineering lessons, recurring bug patterns, deploym
 
 * **Verification Post-Refactoring**: Code changes or refactoring must be empirically verified by running tests and build checks prior to completion. *Solution*: Never assume code correctness based solely on visual inspection.
 * **Atomic Commits**: Large, multi-feature commits complicate bisecting and rollback procedures. *Solution*: Break work down into small, single-purpose, atomic commits.
+
+---
+
+## Central Knowledge Graph Links
+
+* **Overview**: [[README]]
+* **Directives**: [[AGENTS]]
+* **Global Rules**: [[RULES]]
+* **Engineering Principles**: [[Engineering Principles]]

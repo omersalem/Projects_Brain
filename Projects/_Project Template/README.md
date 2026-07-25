@@ -40,3 +40,10 @@ Highest priority tasks, upcoming feature additions, and planned engineering work
 # Notes
 
 Additional context, environment setups, testing instructions, or specific operational directives useful for AI agents.
+
+---
+
+## Knowledge Graph & System Links
+
+* **Global Knowledge**: [[AGENTS]] | [[RULES]] | [[Engineering Principles]] | [[Lessons Learned]]
+* **Project Skills**: [[Skills/feature/SKILL]] | [[Skills/fix/SKILL]] | [[Skills/review/SKILL]] | [[Skills/new/SKILL]]

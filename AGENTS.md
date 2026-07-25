@@ -85,3 +85,12 @@ All documentation created or modified within Projects Brain must adhere to the f
 * **AI- & Human-Friendly**: Scannable, unambiguous, and cleanly formatted.
 * **No Long Essays**: Avoid verbose prose; present context efficiently.
 * **No Redundancy**: Omit duplicated information and eliminate unnecessary documentation.
+
+---
+
+## Central Knowledge Graph Links
+
+* **Overview**: [[README]]
+* **Global Rules**: [[RULES]]
+* **Engineering Standards**: [[Engineering Principles]]
+* **Lessons & Discoveries**: [[Lessons Learned]]

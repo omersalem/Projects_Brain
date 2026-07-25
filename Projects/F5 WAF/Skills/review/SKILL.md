@@ -47,3 +47,11 @@ Produce a structured review report containing:
 2. **Risks**: Security vulnerabilities, performance bottlenecks, or high-risk architectural debt.
 3. **Recommendations**: Concrete, prioritized actionable fixes.
 4. **Suggested Improvements**: Non-critical enhancement suggestions and maintainability refactorings.
+
+---
+
+## System Navigation
+
+* **Project Hub**: [[README]]
+* **Global Core**: [[AGENTS]] | [[RULES]]
+* **Continuous Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]

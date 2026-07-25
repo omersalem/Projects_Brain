@@ -45,3 +45,11 @@ Initialize a newly discovered software repository inside Projects Brain by creat
 * Initialized project directory inside `Projects/<Project_Name>/`.
 * Fully populated project `README.md` with detected technical stack and repository metadata.
 * Provisioned project `Skills/` directory containing `feature/`, `fix/`, `review/`, and `new/` skills.
+
+---
+
+## System Navigation
+
+* **Project Hub**: [[README]]
+* **Global Core**: [[AGENTS]] | [[RULES]]
+* **Continuous Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]

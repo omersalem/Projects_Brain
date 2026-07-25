@@ -46,3 +46,12 @@ This file stores long-term, reusable engineering knowledge, design patterns, and
 * **Single Source of Truth**: Store every technical fact in one authoritative location to prevent drift.
 * **Factual & Scannable**: Document empirical state and concrete decisions cleanly using Markdown bullet points and headers.
 * **Keep Docs Synchronized**: Update documentation concurrently whenever system behavior or architecture evolves.
+
+---
+
+## Central Knowledge Graph Links
+
+* **Overview**: [[README]]
+* **Directives**: [[AGENTS]]
+* **Global Rules**: [[RULES]]
+* **Lessons Learned**: [[Lessons Learned]]

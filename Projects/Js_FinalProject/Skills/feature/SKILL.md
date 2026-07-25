@@ -44,3 +44,11 @@ Safely implement a new feature in the project while maintaining architectural in
 * Clean, working feature implementation in the target codebase.
 * Verified tests/build status.
 * Updated project `README.md` (if architectural changes occurred).
+
+---
+
+## System Navigation
+
+* **Project Hub**: [[README]]
+* **Global Core**: [[AGENTS]] | [[RULES]]
+* **Continuous Knowledge**: [[Engineering Principles]] | [[Lessons Learned]]
