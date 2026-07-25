@@ -1,16 +1,19 @@
 ﻿# Project Overview
 
-Local project directory discovered at `D:\projects\ChatBot_Mne`.
+Unknown
 
 # Repository
 
-* **GitHub URL**: Unknown
-* **Default Branch**: main
-* **Local Path**: `D:\projects\ChatBot_Mne`
+* **GitHub URL**: https://github.com/omersalem/Chatbot_MNE
+* **Default Branch**: $branch
+* **Visibility**: Private
+* **Local Path**: `d:\projects\Chatbot_MNE`
+* **Last Updated on GitHub**: $updatedAt
+* **Metrics**: Stars: 0 | Forks: 0 | Open Issues: 0
 
 # Technologies
 
-* **Languages**: Unknown
+* **Languages**: Python
 * **Frameworks**: Unknown
 * **Database**: Unknown
 * **Infrastructure**: Unknown
@@ -20,11 +23,11 @@ Local project directory discovered at `D:\projects\ChatBot_Mne`.
 
 # Architecture
 
-Unknown
+High-level architecture extracted from GitHub repository metadata and local configuration artifacts.
 
 # Current Status
 
-Local project directory discovered.
+Synchronized live from GitHub API. Active branch: $branch. Last push/update: $updatedAt.
 
 # Important Decisions
 
@@ -32,7 +35,7 @@ Unknown
 
 # Known Issues
 
-Unknown
+Open Issues Count: 0.
 
 # Next Priorities
 
@@ -40,7 +43,7 @@ Unknown
 
 # Notes
 
-Synchronized via github-project-sync skill on 2026-07-25 10:18:52.
+Synchronized via github-project-sync skill on 2026-07-25 14:19:59.
 
 ---
 

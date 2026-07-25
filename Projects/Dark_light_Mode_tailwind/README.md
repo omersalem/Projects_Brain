@@ -6,7 +6,10 @@ here is a tutorial to learn how control the light and dark mode using toggle but
 
 * **GitHub URL**: https://github.com/omersalem/Dark_light_Mode_tailwind
 * **Default Branch**: $branch
+* **Visibility**: Public
 * **Local Path**: `Unknown`
+* **Last Updated on GitHub**: $updatedAt
+* **Metrics**: Stars: 0 | Forks: 0 | Open Issues: 0
 
 # Technologies
 
@@ -20,11 +23,11 @@ here is a tutorial to learn how control the light and dark mode using toggle but
 
 # Architecture
 
-Unknown
+High-level architecture extracted from GitHub repository metadata and local configuration artifacts.
 
 # Current Status
 
-Synchronized from GitHub. Repository active on $branch branch.
+Synchronized live from GitHub API. Active branch: $branch. Last push/update: $updatedAt.
 
 # Important Decisions
 
@@ -32,7 +35,7 @@ Unknown
 
 # Known Issues
 
-Unknown
+Open Issues Count: 0.
 
 # Next Priorities
 
@@ -40,7 +43,7 @@ Unknown
 
 # Notes
 
-Synchronized via github-project-sync skill on 2026-07-25 10:18:47.
+Synchronized via github-project-sync skill on 2026-07-25 14:19:59.
 
 ---
 

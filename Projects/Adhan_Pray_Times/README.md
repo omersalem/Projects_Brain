@@ -6,7 +6,10 @@ very nice app to get the adhan times by choosing city
 
 * **GitHub URL**: https://github.com/omersalem/Adhan_Pray_Times
 * **Default Branch**: $branch
+* **Visibility**: Public
 * **Local Path**: `Unknown`
+* **Last Updated on GitHub**: $updatedAt
+* **Metrics**: Stars: 0 | Forks: 0 | Open Issues: 0
 
 # Technologies
 
@@ -20,11 +23,11 @@ very nice app to get the adhan times by choosing city
 
 # Architecture
 
-Unknown
+High-level architecture extracted from GitHub repository metadata and local configuration artifacts.
 
 # Current Status
 
-Synchronized from GitHub. Repository active on $branch branch.
+Synchronized live from GitHub API. Active branch: $branch. Last push/update: $updatedAt.
 
 # Important Decisions
 
@@ -32,7 +35,7 @@ Unknown
 
 # Known Issues
 
-Unknown
+Open Issues Count: 0.
 
 # Next Priorities
 
@@ -40,7 +43,7 @@ Unknown
 
 # Notes
 
-Synchronized via github-project-sync skill on 2026-07-25 10:18:47.
+Synchronized via github-project-sync skill on 2026-07-25 14:19:59.
 
 ---
 

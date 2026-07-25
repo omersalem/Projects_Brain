@@ -1,30 +1,33 @@
 ﻿# Project Overview
 
-Local project directory discovered at `D:\projects\MNE_Brain`.
+Ministry Infrastructure AI Platform Digital Twin
 
 # Repository
 
-* **GitHub URL**: Unknown
-* **Default Branch**: main
-* **Local Path**: `D:\projects\MNE_Brain`
+* **GitHub URL**: https://github.com/omersalem/MNE_Brain
+* **Default Branch**: $branch
+* **Visibility**: Public
+* **Local Path**: `d:\projects\MNE_Brain`
+* **Last Updated on GitHub**: $updatedAt
+* **Metrics**: Stars: 0 | Forks: 0 | Open Issues: 0
 
 # Technologies
 
-* **Languages**: Unknown
+* **Languages**: Python
 * **Frameworks**: Unknown
 * **Database**: Unknown
 * **Infrastructure**: Unknown
 * **Cloud**: Unknown
 * **External Services**: Unknown
-* **Detected Stack**: Unknown
+* **Detected Stack**: Python
 
 # Architecture
 
-Unknown
+High-level architecture extracted from GitHub repository metadata and local configuration artifacts.
 
 # Current Status
 
-Local project directory discovered.
+Synchronized live from GitHub API. Active branch: $branch. Last push/update: $updatedAt.
 
 # Important Decisions
 
@@ -32,7 +35,7 @@ Unknown
 
 # Known Issues
 
-Unknown
+Open Issues Count: 0.
 
 # Next Priorities
 
@@ -40,7 +43,7 @@ Unknown
 
 # Notes
 
-Synchronized via github-project-sync skill on 2026-07-25 10:18:52.
+Synchronized via github-project-sync skill on 2026-07-25 14:20:00.
 
 ---
 
