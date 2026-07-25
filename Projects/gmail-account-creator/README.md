@@ -1,0 +1,43 @@
+﻿# Project Overview
+
+🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
+
+# Repository
+
+* **GitHub URL**: https://github.com/omersalem/gmail-account-creator
+* **Default Branch**: $branch
+* **Local Path**: `Unknown`
+
+# Technologies
+
+* **Languages**: Unknown
+* **Frameworks**: Unknown
+* **Database**: Unknown
+* **Infrastructure**: Unknown
+* **Cloud**: Unknown
+* **External Services**: Unknown
+* **Detected Stack**: Unknown
+
+# Architecture
+
+Unknown
+
+# Current Status
+
+Synchronized from GitHub. Repository active on $branch branch.
+
+# Important Decisions
+
+Unknown
+
+# Known Issues
+
+Unknown
+
+# Next Priorities
+
+Unknown
+
+# Notes
+
+Synchronized via github-project-sync skill on 2026-07-25 10:18:47.

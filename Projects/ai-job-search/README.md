@@ -1,0 +1,43 @@
+﻿# Project Overview
+
+AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+
+# Repository
+
+* **GitHub URL**: https://github.com/omersalem/ai-job-search
+* **Default Branch**: $branch
+* **Local Path**: `Unknown`
+
+# Technologies
+
+* **Languages**: Unknown
+* **Frameworks**: Unknown
+* **Database**: Unknown
+* **Infrastructure**: Unknown
+* **Cloud**: Unknown
+* **External Services**: Unknown
+* **Detected Stack**: Unknown
+
+# Architecture
+
+Unknown
+
+# Current Status
+
+Synchronized from GitHub. Repository active on $branch branch.
+
+# Important Decisions
+
+Unknown
+
+# Known Issues
+
+Unknown
+
+# Next Priorities
+
+Unknown
+
+# Notes
+
+Synchronized via github-project-sync skill on 2026-07-25 10:18:47.

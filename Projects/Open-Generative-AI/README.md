@@ -1,0 +1,43 @@
+﻿# Project Overview
+
+Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+# Repository
+
+* **GitHub URL**: https://github.com/omersalem/Open-Generative-AI
+* **Default Branch**: $branch
+* **Local Path**: `Unknown`
+
+# Technologies
+
+* **Languages**: Unknown
+* **Frameworks**: Unknown
+* **Database**: Unknown
+* **Infrastructure**: Unknown
+* **Cloud**: Unknown
+* **External Services**: Unknown
+* **Detected Stack**: Unknown
+
+# Architecture
+
+Unknown
+
+# Current Status
+
+Synchronized from GitHub. Repository active on $branch branch.
+
+# Important Decisions
+
+Unknown
+
+# Known Issues
+
+Unknown
+
+# Next Priorities
+
+Unknown
+
+# Notes
+
+Synchronized via github-project-sync skill on 2026-07-25 10:18:47.
